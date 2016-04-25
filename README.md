@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-This app retrieves and matches HTML code from a website to retrieve the appropriate forecast for the city that was entered by the user.
+This app retrieves and matches HTML code from a website to get the appropriate forecast for the city that was entered by the user.
 
 ##Screen Shots
 
